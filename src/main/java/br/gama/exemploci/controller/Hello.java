@@ -10,7 +10,7 @@ public class Hello {
 
     @GetMapping
     public String hello() {
-        return "Olá Mundo!";
+        return "Olá Mundo com action!";
     }
     
 }
